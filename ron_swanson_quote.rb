@@ -6,5 +6,9 @@ class RonSwansonQuote
 			lines << line
 		end
 	end
+
+	def self.generate_quote
+		quotes.shuffle.first
+	end
   
 end

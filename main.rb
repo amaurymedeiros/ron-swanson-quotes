@@ -5,6 +5,6 @@ require 'slim'
 
 get '/' do
   require_relative './ron_swanson_quote.rb'
-  @quote = RonSwansonQuote.quotes.shuffle.first
+  @quote = RonSwansonQuote.generate_quote
   slim :index
 end
