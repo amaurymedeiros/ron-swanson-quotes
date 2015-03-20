@@ -1,8 +1,10 @@
+#!/usr/bin/env ruby
+
 require 'sinatra'
 require 'slim'
- 
+
 get '/' do
-  #TODO: randomize quote
-  @quote = '"If any of you need anything at al... Too bad."'
+  require_relative './ron_swanson_quote.rb'
+  @quote = RonSwansonQuote.quotes.shuffle.first
   slim :index
 end
