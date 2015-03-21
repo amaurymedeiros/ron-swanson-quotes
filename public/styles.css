@@ -1,3 +1,10 @@
 body {
-	background-color: #F8E7D5;
+    background-color: #F8E7D5;
+}
+
+h1.main_header {
+    color: #7B1F34;
+    font-family:'Oswald', Helvetica;
+    text-align: center;
+    font-size: 50px;
 }
