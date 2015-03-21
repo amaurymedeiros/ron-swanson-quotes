@@ -123,7 +123,9 @@ class RonSwansonQuote
 			could run the parks. Everything operated by tokens. Drop in a token go on the swing set. Drop in another token, take a walk. Drop in a token look at a duck.',
 
 			'Leslie, my first wife Tammy, tried throwing me a surprise birthday party. When I saw my friends hiding through the window, 
-			I drove to a gas station, called the cops and told \'em people had broken into my home. I\'m not big on surprises.'
+			I drove to a gas station, called the cops and told \'em people had broken into my home. I\'m not big on surprises.',
+
+			'The three most important people in a man\'s life are his barber, his butcher, and his lover'
 		]
 
 	end
