@@ -55,6 +55,10 @@ p.quote {
     background-image:linear-gradient(top, #7B1F34, #FA9873);
 }
 
-.button-div {
+.center-content {
   text-align: center;
+}
+
+#ron_img {
+    width: 400px;
 }
