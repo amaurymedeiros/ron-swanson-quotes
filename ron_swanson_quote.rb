@@ -131,7 +131,7 @@ class RonSwansonQuote
   end
 
   def self.generate_quote
-    quotes.sample
+    '"' + quotes.sample + '"'
   end
   
 end
