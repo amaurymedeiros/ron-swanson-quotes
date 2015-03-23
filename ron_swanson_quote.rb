@@ -1,32 +1,32 @@
 class RonSwansonQuote
 
   def self.quotes
-    [       
+    [
       'When people get a little too chummy with me I like to call them by the wrong name to let them know I don\'t really care about them.',
-            
+
       'When I eat, it is the food that is scared.',
-            
+
       'Honour: If you need it defined, you don\'t have it.',
-      
+
       'Capitalism: God\'s way of determining who is smart and who is poor.',
-      
-      'Never been hungover. After I\'ve had too much whiskey, I cook myself a large flank steak, pan-fried in salted butter. 
+
+      'Never been hungover. After I\'ve had too much whiskey, I cook myself a large flank steak, pan-fried in salted butter.
       I eat that, put on a pair of wet socks and go to sleep.',
-      
+
       'There is no wrong way to consume alcohol.',
-      
+
       'Fishing relaxes me. It\'s like yoga, except I still get to kill something.',
-      
-      'Just give me all the bacon and eggs you have. Wait... wait. I worry that what you just heard was: 
+
+      'Just give me all the bacon and eggs you have. Wait... wait. I worry that what you just heard was:
       Give me a lot of bacon and eggs. What I said was: Give me ALL the bacon and eggs you have. Do you understand?',
-      
-      'There\'s only one thing I hate more than lying. Skim milk. Which is water that is lying about being milk.', 
-      
+
+      'There\'s only one thing I hate more than lying. Skim milk. Which is water that is lying about being milk.',
+
       'Never half-ass two things. Whole-ass one thing.',
-      
-      'The less I know about other people\'s affairs, the happier I am. I\'m not interested about caring about people. 
+
+      'The less I know about other people\'s affairs, the happier I am. I\'m not interested about caring about people.
       I once worked with a guy for three years and never learned his name. Best friend I ever had. We still never talk sometimes.',
-      
+
       'Any dog under fifty pounds is a cat and cats are useless.',
 
       'Crying: acceptable at funerals and the Grand Canyon.',
@@ -85,7 +85,7 @@ class RonSwansonQuote
 
       'I was born ready. I\'m Ron F*cking Swanson.',
 
-      'The whole point of this country is if you want to eat garbage, balloon up to 
+      'The whole point of this country is if you want to eat garbage, balloon up to
       600 pounds and die of a heart attack at 43, you can! You are free to do so. To me, that\'s beautiful.',
 
       'Why is everyone else so bad at eating?',
@@ -94,35 +94,35 @@ class RonSwansonQuote
 
       'I would sooner visit Europe than have something romantic happen between us.',
 
-      'I enjoy government functions like I enjoy getting kicked in the nuggets with a steel toed boot. 
-      But this hotel always served bacon wrapped shrimp. That\'s my number one favorite food wrapped around my number three favorite food. 
+      'I enjoy government functions like I enjoy getting kicked in the nuggets with a steel toed boot.
+      But this hotel always served bacon wrapped shrimp. That\'s my number one favorite food wrapped around my number three favorite food.
       I\'d go to a banquet in honor of those Somali pirates if they served bacon wrapped shrimp.',
 
-      'Yep. My ex-wife Tammy cheated on me, then we divorced, then last week I ran into her sister 
+      'Yep. My ex-wife Tammy cheated on me, then we divorced, then last week I ran into her sister
       Beth here, turns out she hates Tammy too, so we started dating. It\'s like a fairytale.',
 
-      'There is no need for medical treatment. I\'m on a government health plan. I don\'t need tax payers 
+      'There is no need for medical treatment. I\'m on a government health plan. I don\'t need tax payers
       to pay for me to lay in bed and eat jello and watch Dr. Phil.',
 
-      'I have a hernia. Had it for awhile, and I\'ve been ignoring it... successfully. But, ah, this 
+      'I have a hernia. Had it for awhile, and I\'ve been ignoring it... successfully. But, ah, this
       morning I made the mistake of sneezing. But as long as I sit still, don\'t move my head or torso, I\'m good. I got this.',
 
       'To exes. May they always stay that way.',
 
       '[on his ex-wife] Every time she laughs an Angel dies. Even telemarketers avoid her. Her birth was payback for the sins of man.',
 
-      'I generally like my job, because for most of the year, there isn\'t a lot to do. 
+      'I generally like my job, because for most of the year, there isn\'t a lot to do.
       And around Christmas most of the people go away, so there\'s even less to do. So, yes, I love Christmas.',
 
-      'My house has no walkway, no porch light, no welcome mat and no visible front door. 
-      It is virtually impossible to get into my house. I keep the address unlisted, I change the house number every six 
-      weeks and the mailman\'s instructed to leave the mail in a small plastic box hanging from my fence by a metal chain. 
+      'My house has no walkway, no porch light, no welcome mat and no visible front door.
+      It is virtually impossible to get into my house. I keep the address unlisted, I change the house number every six
+      weeks and the mailman\'s instructed to leave the mail in a small plastic box hanging from my fence by a metal chain.
       Most of my house is a wood shop and the rest is a space for meat curing.',
 
-      'I couldn\'t be happier about this. I think the entire government should be privatized. Chuck E. Cheese 
+      'I couldn\'t be happier about this. I think the entire government should be privatized. Chuck E. Cheese
       could run the parks. Everything operated by tokens. Drop in a token go on the swing set. Drop in another token, take a walk. Drop in a token look at a duck.',
 
-      'Leslie, my first wife Tammy, tried throwing me a surprise birthday party. When I saw my friends hiding through the window, 
+      'Leslie, my first wife Tammy, tried throwing me a surprise birthday party. When I saw my friends hiding through the window,
       I drove to a gas station, called the cops and told \'em people had broken into my home. I\'m not big on surprises.',
 
       'The three most important people in a man\'s life are his barber, his butcher, and his lover.'
@@ -133,5 +133,5 @@ class RonSwansonQuote
   def self.generate_quote
     '"' + quotes.sample + '"'
   end
-  
+
 end
