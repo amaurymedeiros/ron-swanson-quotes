@@ -125,7 +125,58 @@ class RonSwansonQuote
       'Leslie, my first wife Tammy, tried throwing me a surprise birthday party. When I saw my friends hiding through the window,
       I drove to a gas station, called the cops and told \'em people had broken into my home. I\'m not big on surprises.',
 
-      'The three most important people in a man\'s life are his barber, his butcher, and his lover.'
+      'The three most important people in a man\'s life are his barber, his butcher, and his lover.',
+
+      'There will be no fouffy deserts. There will be no giant soaked bubble guns.
+      There will be no adult men in costumes. And most of all there will be no f*cking vegetables.',
+
+      'Every summer Leslie throws a barbecue to thank the parks and maintenance staff. It\'s horrifying.
+      Barbecues should be about one thing: good shared meat.',
+
+      'Ah, Councilwoman. In honor of your never-ending quest to personally babysit each and every American citizen,
+      I went to Paunch Burger and got myself a Number Two: Double Bacon Grenade Deluxe, Hash Browns, Chili Cheese Fries,
+      and one poached egg. [...] I also picked up a 64 oz Sweetums Sugar Splash. Dammit, I love this country so much.',
+
+      'I will not report it to the judge, but if you slip up again you will have much more to fear than some feeble government employee in a robe.',
+
+      'When you do get your phone back you will not stare at it when you are talking to another human being. Look a man in the eye when you speak with him.',
+
+      'I\'m proud of you, but also fearful that we’re verging on what I call feelings territory. So let\'s stare at the fire in silence.',
+
+      'I am not sure if I’m ready for a whole family. If the kids ever wanted to come to my place, I’d have to take a whole week off work just to undo the alarms and tripwires.',
+
+      'I\'m always looking for new investments. Ever since I got my first job at the age of nine,
+      I\'ve put all my money in gold, which is currently at an all time high. So I have a certain amount of money. I\'ve said too much.',
+
+      'Haircuts: There are three acceptable haircuts. High and tight, crew cut, buzz cut.',
+
+      'Libertarianism is all about individual liberty, and it should never be defined by the terms liberal or conservative.',
+
+      'If there were more food and fewer people, this would be a perfect party.',
+
+      'Women like scars. It shows you survived an attack, and they\'ll assume that attack was from a man.',
+
+      'That\'s ridiculous, I don\'t think of you romantically. You\'re pro government, you never stop talking, and you have blonde hair. You\'re my worst nightmare.',
+
+      'Buffets: Whenever available. Choose quantity over quality.',
+
+      'America: The only Country that matters. If you want to experience other "cultures," use an atlas or a ham radio.',
+
+      'Greatness Itself: The best revenge.',
+
+      'Discipline: The ability to repeat a boring thing over & over again.',
+
+      'Stillness: Don\'t waste energy moving unless necessary.',
+
+      'Property Rights: They exist. Do not let them be taken away from you.',
+
+      'Perspiration: Only sweat during physical activity or love making. No emotional sweating.',
+
+      'Frankness: Cut the B.S.',
+
+      'Rage: One rage every three months is permitted. Try not to hurt anyone who doesn\'t deserve it.',
+
+      'Handshakes: Firm, dry, solid, 3 seconds.'
     ]
 
   end
