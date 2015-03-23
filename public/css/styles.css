@@ -56,7 +56,12 @@ p.quote {
 }
 
 .center-content {
-  text-align: center;
+    text-align: center;
+}
+
+.quote-content {
+    width: 50%;
+    margin: 0 auto;
 }
 
 #ron_img {
