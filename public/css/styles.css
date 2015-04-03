@@ -36,7 +36,7 @@ p.quote {
     background-image:-ms-linear-gradient(top, #FA9873, #603813);
     background-image:-o-linear-gradient(top, #FA9873, #603813);
     background-image:linear-gradient(to bottom, #FA9873, #603813);
-    
+
     -webkit-border-radius:5px;
     -moz-border-radius:5px;
     border-radius:5px;
@@ -68,6 +68,6 @@ p.quote {
     width: 400px;
 }
 
-#footer {
+.social {
     margin-top: 20px;
 }
