@@ -176,7 +176,23 @@ class RonSwansonQuote
 
       %{Rage: One rage every three months is permitted. Try not to hurt anyone who doesn't deserve it.},
 
-      %{Handshakes: Firm, dry, solid, 3 seconds.}
+      %{Handshakes: Firm, dry, solid, 3 seconds.},
+
+      %{I'm a simple man. I like pretty, dark-haired women, and breakfast food.},
+
+      %{I don't want to paint with a broad brush here, but every single contractor in the world is a miserable, incompetent thief.},
+
+      %{My only official recommendations are US Army-issued mustache trimmers, Morton's Salt, and the C.R. Lawrence Fein two inch axe-style scraper oscillating knife blade.},
+
+      %{Are you going to tell a man that he can't fart in his own car?},
+
+      %{Turkey can never beat cow.},
+
+      %{Shorts over six inches are capri pants, shorts under six inches are European.},
+
+      %{Children are terrible artists and artists are crooks.},
+
+      %{I believe luck is a concept invented by the weak to explain their failures.}
     ]
 
   end
